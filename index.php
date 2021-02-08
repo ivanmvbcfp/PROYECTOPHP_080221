@@ -6,7 +6,7 @@
         <title></title>
     </head>
     <body>
-        <?php
+<?php
 
 echo '<p>Hola Mundo</p>'; 
 
